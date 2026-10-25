@@ -136,7 +136,7 @@ I don't quote a speed-up for any of this, because I haven't measured one. What I
 
 ## 📊 By the numbers
 
-| | | Source |
+| Number | What it measures | Source |
 | --- | --- | --- |
 | **$338K** | invoiced in a billing system's first month, 99% collected | the system's records |
 | **~50%** | of a 77,000-line agency platform | `git blame` |
@@ -148,16 +148,9 @@ I don't quote a speed-up for any of this, because I haven't measured one. What I
 ## 📈 Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=devjayzee&hide_border=true&background=16130F&stroke=37322D&ring=FCBE54&fire=FCBE54&currStreakNum=F2F0EC&sideNums=F2F0EC&currStreakLabel=FCBE54&sideLabels=B5B0AA&dates=8D8883">
-  <img alt="GitHub contribution streak for devjayzee" src="https://streak-stats.demolab.com/?user=devjayzee&hide_border=true&background=FBF8F4&stroke=DCD7CF&ring=9A5500&fire=9A5500&currStreakNum=1A1510&sideNums=1A1510&currStreakLabel=9A5500&sideLabels=5D5750&dates=867F77" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devjayzee/devjayzee/output/activity-dark.svg">
+  <img alt="GitHub activity for devjayzee over the last year, private contributions included, with the current and longest streaks" src="https://raw.githubusercontent.com/devjayzee/devjayzee/output/activity-light.svg" width="100%">
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=devjayzee&bg_color=16130f&color=b5b0aa&title_color=f2f0ec&line=71dcd6&point=fcbe54&area=true&area_color=71dcd6&hide_border=true&custom_title=Contributions%2C%20last%2031%20days">
-  <img alt="GitHub contribution graph for devjayzee, last 31 days" src="https://github-readme-activity-graph.vercel.app/graph?username=devjayzee&bg_color=fbf8f4&color=5d5750&title_color=1a1510&line=00696a&point=9a5500&area=true&area_color=00696a&hide_border=true&custom_title=Contributions%2C%20last%2031%20days" width="100%">
-</picture>
-
-Most of these contributions are to private repositories.
 
 ## 📬 Get in touch
 
