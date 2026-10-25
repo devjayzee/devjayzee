@@ -8,13 +8,13 @@
 </a>
 
 <p align="center">
-  <a href="mailto:jeromedzarate@gmail.com"><img alt="Available for work: remote, full-time or contract" src="https://img.shields.io/badge/Available_for_work-remote%2C_full--time_or_contract-3fe0ac?style=for-the-badge&labelColor=0a0a0b"></a>
+  <a href="mailto:jeromedzarate@gmail.com"><img alt="Available for work: remote, full-time or contract" src="https://img.shields.io/badge/Available_for_work-remote%2C_full--time_or_contract-48e9b5?style=for-the-badge&labelColor=0a0a0b"></a>
 </p>
 <p align="center">
-  <a href="mailto:jeromedzarate@gmail.com"><img alt="Email jeromedzarate@gmail.com" src="https://img.shields.io/badge/Email-jeromedzarate%40gmail.com-3fe0ac?style=flat-square&logo=gmail&logoColor=3fe0ac&labelColor=17171b"></a>
-  <a href="https://jeromezarate.vercel.app"><img alt="Portfolio jeromezarate.vercel.app" src="https://img.shields.io/badge/Portfolio-jeromezarate.vercel.app-3fe0ac?style=flat-square&logo=vercel&logoColor=3fe0ac&labelColor=17171b"></a>
-  <a href="https://linkedin.com/in/jerome-zarate-1403831a1"><img alt="LinkedIn Jerome Zarate" src="https://img.shields.io/badge/LinkedIn-Jerome_Zarate-3fe0ac?style=flat-square&logo=linkedin&logoColor=3fe0ac&labelColor=17171b"></a>
-  <a href="https://github.com/devjayzee/Scone-Willow-Tree-Hotel"><img alt="Open source: Scone Willow Tree Hotel" src="https://img.shields.io/badge/Open_source-Scone_Willow_Tree_Hotel-3fe0ac?style=flat-square&logo=github&logoColor=3fe0ac&labelColor=17171b"></a>
+  <a href="mailto:jeromedzarate@gmail.com"><img alt="Email jeromedzarate@gmail.com" src="https://img.shields.io/badge/Email-jeromedzarate%40gmail.com-48e9b5?style=flat-square&logo=gmail&logoColor=3fe0ac&labelColor=17171b"></a>
+  <a href="https://jeromezarate.vercel.app"><img alt="Portfolio jeromezarate.vercel.app" src="https://img.shields.io/badge/Portfolio-jeromezarate.vercel.app-48e9b5?style=flat-square&logo=vercel&logoColor=3fe0ac&labelColor=17171b"></a>
+  <a href="https://linkedin.com/in/jerome-zarate-1403831a1"><img alt="LinkedIn Jerome Zarate" src="https://img.shields.io/badge/LinkedIn-Jerome_Zarate-48e9b5?style=flat-square&logo=linkedin&logoColor=3fe0ac&labelColor=17171b"></a>
+  <a href="https://github.com/devjayzee/Scone-Willow-Tree-Hotel"><img alt="Open source: Scone Willow Tree Hotel" src="https://img.shields.io/badge/Open_source-Scone_Willow_Tree_Hotel-48e9b5?style=flat-square&logo=github&logoColor=3fe0ac&labelColor=17171b"></a>
 </p>
 <p align="center">
   <a href="#work">Work</a> · <a href="#by-the-numbers">Numbers</a> · <a href="#how-i-work">How I work</a> · <a href="#experience">Experience</a> · <a href="#tech-stack">Stack</a> · <a href="#activity">Activity</a> · <a href="#contact">Contact</a>
@@ -28,14 +28,14 @@ Most of my recent work has been on teams of one or two, so I make decisions I'll
 
 That work lives in private client repositories, so every number on this page comes from `git blame`, `git log` or the system's own records.
 
-| At a glance | |
-| --- | --- |
-| Role | Full-stack engineer: Node.js, TypeScript, React |
-| Experience | Five years of production systems, since December 2020 |
-| Education | Electronics and Communication Engineering, Saint Louis University, Baguio; then Village88's backend training programme |
-| Based in | Philippines, UTC+8, working remotely |
-| Open to | Remote full-time engineering roles and select contract work |
-| Contact | [jeromedzarate@gmail.com](mailto:jeromedzarate@gmail.com) · [Portfolio](https://jeromezarate.vercel.app) · [LinkedIn](https://linkedin.com/in/jerome-zarate-1403831a1) |
+<table>
+<tr><td><b>Role</b></td><td>Full-stack engineer: Node.js, TypeScript, React</td></tr>
+<tr><td><b>Experience</b></td><td>Five years of production systems, since December 2020</td></tr>
+<tr><td><b>Education</b></td><td>Electronics and Communication Engineering, Saint Louis University, Baguio; then Village88's backend training programme</td></tr>
+<tr><td><b>Based in</b></td><td>Philippines, UTC+8, working remotely</td></tr>
+<tr><td><b>Open to</b></td><td>Remote full-time engineering roles and select contract work</td></tr>
+<tr><td><b>Contact</b></td><td><a href="mailto:jeromedzarate@gmail.com">jeromedzarate@gmail.com</a> · <a href="https://jeromezarate.vercel.app">Portfolio</a> · <a href="https://linkedin.com/in/jerome-zarate-1403831a1">LinkedIn</a></td></tr>
+</table>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sec-01-dark.svg"><img alt="" src="./assets/sec-01-light.svg" width="100%"></picture>
 
@@ -302,5 +302,3 @@ I don't quote a speed-up for any of this, because I haven't measured one. What I
   <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
   <img alt="Small teams don't get to fix things twice." src="./assets/footer-light.svg" width="100%">
 </picture>
-
-<p align="right"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=devjayzee&style=flat-square&color=3fe0ac&label=profile+views"></p>
