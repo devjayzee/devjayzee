@@ -1,9 +1,11 @@
-<a href="https://jeromezarate.vercel.app"><picture>
+<a href="https://jeromezarate.vercel.app">
+<picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/banner-narrow-dark.svg">
   <source media="(max-width: 600px)" srcset="./assets/banner-narrow-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
   <img alt="Jerome Zarate, full-stack engineer. Five years across Node.js, TypeScript and React. I build commission ledgers that reconcile, message sync that survives reconnects, AI pipelines with a human sign-off, and whole products from schema to deploy. Available for work, full-time or contract. Philippines, UTC+8." src="./assets/banner-light.svg" width="100%">
-</picture></a>
+</picture>
+</a>
 
 <p align="center">
   <a href="mailto:jeromedzarate@gmail.com"><img alt="Available for work: remote, full-time or contract" src="https://img.shields.io/badge/Available_for_work-remote%2C_full--time_or_contract-3fe0ac?style=for-the-badge&labelColor=0a0a0b"></a>
@@ -281,12 +283,14 @@ I don't quote a speed-up for any of this, because I haven't measured one. What I
 
 ## Contact
 
-<a href="mailto:jeromedzarate@gmail.com"><picture>
+<a href="mailto:jeromedzarate@gmail.com">
+<picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/cta-narrow-dark.svg">
   <source media="(max-width: 600px)" srcset="./assets/cta-narrow-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/cta-dark.svg">
   <img alt="Let's talk about what you're building. Email jeromedzarate@gmail.com" src="./assets/cta-light.svg" width="100%">
-</picture></a>
+</picture>
+</a>
 
 - **Email**: [jeromedzarate@gmail.com](mailto:jeromedzarate@gmail.com)
 - **Portfolio**: [jeromezarate.vercel.app](https://jeromezarate.vercel.app), five case studies with the decisions behind each
