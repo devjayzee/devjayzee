@@ -14,7 +14,6 @@
   <a href="mailto:jeromedzarate@gmail.com"><img alt="Email jeromedzarate@gmail.com" src="https://img.shields.io/badge/Email-jeromedzarate%40gmail.com-48e9b5?style=flat-square&logo=gmail&logoColor=3fe0ac&labelColor=17171b"></a>
   <a href="https://jeromezarate.vercel.app"><img alt="Portfolio jeromezarate.vercel.app" src="https://img.shields.io/badge/Portfolio-jeromezarate.vercel.app-48e9b5?style=flat-square&logo=vercel&logoColor=3fe0ac&labelColor=17171b"></a>
   <a href="https://linkedin.com/in/jerome-zarate-1403831a1"><img alt="LinkedIn Jerome Zarate" src="https://img.shields.io/badge/LinkedIn-Jerome_Zarate-48e9b5?style=flat-square&logo=linkedin&logoColor=3fe0ac&labelColor=17171b"></a>
-  <a href="https://github.com/devjayzee/Scone-Willow-Tree-Hotel"><img alt="Open source: Scone Willow Tree Hotel" src="https://img.shields.io/badge/Open_source-Scone_Willow_Tree_Hotel-48e9b5?style=flat-square&logo=github&logoColor=3fe0ac&labelColor=17171b"></a>
 </p>
 <p align="center">
   <a href="#work">Work</a> · <a href="#by-the-numbers">Numbers</a> · <a href="#how-i-work">How I work</a> · <a href="#experience">Experience</a> · <a href="#tech-stack">Stack</a> · <a href="#activity">Activity</a> · <a href="#contact">Contact</a>
